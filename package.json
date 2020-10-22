@@ -1,0 +1,11 @@
+{
+  "name": "wasm-u64-polyfill",
+  "scripts": {
+    "serve": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2",
+    "wasm-u64-test": "file:wasm-u64-test/pkg"
+  },
+  "devDependencies": {}
+}
